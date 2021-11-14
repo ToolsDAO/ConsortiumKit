@@ -5,7 +5,7 @@ I plan to use this repository to share many exciting ideas, notes, and tools rel
 
 <br/>
 
-Feel free to fork, create an issue or pull request, reach out with questions or comments, or interact with this repository however you like 🙂
+Feel free reach out with any comments or interact with this repository however you like 🙂
 
 <br/>
 

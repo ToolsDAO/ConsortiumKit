@@ -1,4 +1,4 @@
-# Welcome to the Consortium Kit repository!
+# Welcome to Consortium Kit!
 <br/>
 
 I plan to use this repository to share many exciting ideas, notes, and tools related to Consortium!
